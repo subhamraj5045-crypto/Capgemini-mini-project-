@@ -1,24 +1,11 @@
-# Library Management System 📚
+# Library Management System
 
-## 📌 Description
-This is a simple Library Management System project made using Python. It allows users to add, view, and remove books.
+This is a simple Python-based library management system.
 
-## 🚀 Features
-- Add new books
-- View all books
-- Remove books
-- Menu-driven program using loop
+## Features
+- Add Book
+- View Books
+- Remove Book
 
-## 🛠️ Technologies Used
-- Python
-
-## ▶️ How to Run
-1. Install Python
-2. Run the file:
-   python library_management_system.py
-
-## 📂 Project Structure
-- library_management_system.py
-
-## 👨‍💻 Author
-Subham Raj 
+## How to Run
+python main.py
